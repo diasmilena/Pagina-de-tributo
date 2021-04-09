@@ -7,7 +7,6 @@
 
 [Acesse diretamente este site clicando aqui.
 ![default](https://user-images.githubusercontent.com/81335163/114228487-dbda1980-994c-11eb-87d0-fea462cf738e.jpg)
-
 ](https://diasmilena.github.io/Pagina-de-tributo/)
 
 
