@@ -1,7 +1,7 @@
 # Tribute Page - Página de tributo 
 
 
-* Projeto feito em um curso de Web Design responsivo na [Instituição Free Code Camp](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects)
+* Projeto feito para um curso de Web Design responsivo na [Instituição Free Code Camp](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects)
 * Consiste uma página de tributo para o mito da Medusa
 * Deselvolvido em HTML e CSS.
 
