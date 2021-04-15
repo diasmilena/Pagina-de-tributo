@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tribute Page - Página de tributo 
 
 
@@ -18,4 +19,7 @@
 
 
 
+=======
+# TributePage
+>>>>>>> parent of 824d039 (Merge branch 'main' of https://github.com/diasmilena/Pagina-de-tributo into main)
  
